@@ -15,7 +15,7 @@ void setup() {
 
 void loop() {
   sensors_event_t acc,gcc,temp;
-  m_p_u.getEvent(&acc,&gcc,&temp);
+  m_p_u.getEvent(&acc,&gcc,&temp); //Get data
 
   Serial.print("Acc(m/s2):");
   Serial.print(" (X:"); Serial.print(acc.acceleration.x);
