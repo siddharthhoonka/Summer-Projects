@@ -243,7 +243,7 @@ void setup() {
 
 void loop() {
   if(SerialBT.available()){
-    char c= char(SerialBT.read());
+    char c= char(SerialBT.read()); //Read data
     Serial.print("Received: ");
     Serial.println(c);
     //For Forward Motion
