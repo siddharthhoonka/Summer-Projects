@@ -72,7 +72,6 @@
 | <img src="https://github.com/user-attachments/assets/4b077c4d-f382-4126-a5b3-8cc5574c0782" alt="Image 1" style="height: 300px; width: 350px; transform: rotate(90deg);"> | <img src="https://hackmd.io/_uploads/ryT8bhvMyx.gif" alt="Image 2" style="height: 300px; width: 300px;"> |
 | --- | --- |
 
-
 ### 5] Backward-Right motion and Gesture
 | <img src="https://hackmd.io/_uploads/ByvxLhvzye.gif" alt="Image 1" style="height: 300px; width: 350px;"> | <img src="https://hackmd.io/_uploads/rk94Snvz1g.gif" alt="Image 2" style="height: 300px; width: 300px;"> |
 | --- | --- |
