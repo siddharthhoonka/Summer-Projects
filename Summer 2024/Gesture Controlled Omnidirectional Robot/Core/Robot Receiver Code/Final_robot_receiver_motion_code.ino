@@ -255,7 +255,7 @@ void loop() {
     char c=myData.c;
     Serial.print(c);
     Serial.print(" ");
-    Serial.print(receivedspeed);
+    Serial.print(receivedspeed); // Define speed between 0 to 255 with Minimum at 0 and Maximum at 255 proportionally
     Serial.print('\t');
 
     if(c=='f'){
