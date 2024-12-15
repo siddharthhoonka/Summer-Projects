@@ -118,6 +118,7 @@ void loop() {
   //Take values when button is pressed
   if(button==HIGH){
     while(--j>=0){
+      //LED as indicator
       digitalWrite(LED,HIGH);
       delay(5);
       sensors_event_t acc,gcc,temp;
